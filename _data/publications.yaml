@@ -8,6 +8,14 @@ papers:
     genai: y
     other: n
 
+  - title: "ExoSphere"
+    description: "The C-Suite Agent App"
+    venue: "GitHub"
+    code: https://github.com/aayushrajj/exosphere
+    fullstack: y
+    all: y
+    genai: n
+
   - title: "Movie Shuffle"
     description: "Add and shuffle movies and get what to watch"
     venue: Under Construction!
@@ -46,7 +54,7 @@ papers:
   - title: "Year Book"
     description: "A virtual year book"
     venue: "Coming soon! An Ambitious project close to my heart."
-    code: https://github.com/ishandhanani/matchingpennies
+    code: https://github.com/aayushrajj/
     fullstack: y
     all: y
     genai: n
